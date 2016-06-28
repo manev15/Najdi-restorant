@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Најди ресторант</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Најблиски ресторанти</string>
+    <string name="nav_item_friends">Најпопуларни ресторанти</string>
+    <string name="nav_item_notifications">Додади ресторант</string>
+    <string name="nav_item_аа">Најава</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+        <item>@string/nav_item_аа</item>
+    </string-array>
+
+    <string name="title_messages">Messages</string>
+    <string name="title_friends">Најпопуларни ресторанти</string>
+    <string name="title_home">Најблиски ресторанти</string>
+    <string name="title_dodadi">Додади ресторант</string>
+    <string name="title_najava">Најава</string>
+
+
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps23">Map</string>
+    <string name="title_activity_single">Детали за ресторантот</string>
+    <string name="title_activity_za_map">Мапа</string>
+    <string name="title_activity_login">Најава</string>
+    <string name="title_activity_registration">Регистрација</string>
+    <string name="title_activity_dodadi">Додади ресторант</string>
+</resources>
